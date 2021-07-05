@@ -1,0 +1,16 @@
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.csprojAssemblyReference.cache
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.AssemblyInfoInputs.cache
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.AssemblyInfo.cs
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.csproj.CoreCompileInputs.cache
+C:\leobilha\appConsole\bin\Debug\net5.0\appConsole.exe
+C:\leobilha\appConsole\bin\Debug\net5.0\appConsole.deps.json
+C:\leobilha\appConsole\bin\Debug\net5.0\appConsole.runtimeconfig.json
+C:\leobilha\appConsole\bin\Debug\net5.0\appConsole.runtimeconfig.dev.json
+C:\leobilha\appConsole\bin\Debug\net5.0\appConsole.dll
+C:\leobilha\appConsole\bin\Debug\net5.0\ref\appConsole.dll
+C:\leobilha\appConsole\bin\Debug\net5.0\appConsole.pdb
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.dll
+C:\leobilha\appConsole\obj\Debug\net5.0\ref\appConsole.dll
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.pdb
+C:\leobilha\appConsole\obj\Debug\net5.0\appConsole.genruntimeconfig.cache
