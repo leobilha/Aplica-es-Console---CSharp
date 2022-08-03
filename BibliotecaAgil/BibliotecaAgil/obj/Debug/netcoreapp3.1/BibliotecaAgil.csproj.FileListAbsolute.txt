@@ -1,0 +1,15 @@
+C:\BibliotecaAgil\BibliotecaAgil\bin\Debug\netcoreapp3.1\BibliotecaAgil.exe
+C:\BibliotecaAgil\BibliotecaAgil\bin\Debug\netcoreapp3.1\BibliotecaAgil.deps.json
+C:\BibliotecaAgil\BibliotecaAgil\bin\Debug\netcoreapp3.1\BibliotecaAgil.runtimeconfig.json
+C:\BibliotecaAgil\BibliotecaAgil\bin\Debug\netcoreapp3.1\BibliotecaAgil.runtimeconfig.dev.json
+C:\BibliotecaAgil\BibliotecaAgil\bin\Debug\netcoreapp3.1\BibliotecaAgil.dll
+C:\BibliotecaAgil\BibliotecaAgil\bin\Debug\netcoreapp3.1\BibliotecaAgil.pdb
+C:\BibliotecaAgil\BibliotecaAgil\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.GeneratedMSBuildEditorConfig.editorconfig
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.AssemblyInfoInputs.cache
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.AssemblyInfo.cs
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.csproj.CoreCompileInputs.cache
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.csproj.CopyComplete
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.dll
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.pdb
+C:\BibliotecaAgil\BibliotecaAgil\obj\Debug\netcoreapp3.1\BibliotecaAgil.genruntimeconfig.cache

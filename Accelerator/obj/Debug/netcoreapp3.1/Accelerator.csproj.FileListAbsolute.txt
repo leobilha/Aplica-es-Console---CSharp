@@ -1,0 +1,13 @@
+C:\Accelerator\obj\Debug\netcoreapp3.1\Accelerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Accelerator\obj\Debug\netcoreapp3.1\Accelerator.AssemblyInfoInputs.cache
+C:\Accelerator\obj\Debug\netcoreapp3.1\Accelerator.AssemblyInfo.cs
+C:\Accelerator\obj\Debug\netcoreapp3.1\Accelerator.csproj.CoreCompileInputs.cache
+C:\Accelerator\bin\Debug\netcoreapp3.1\Accelerator.exe
+C:\Accelerator\bin\Debug\netcoreapp3.1\Accelerator.deps.json
+C:\Accelerator\bin\Debug\netcoreapp3.1\Accelerator.runtimeconfig.json
+C:\Accelerator\bin\Debug\netcoreapp3.1\Accelerator.runtimeconfig.dev.json
+C:\Accelerator\bin\Debug\netcoreapp3.1\Accelerator.dll
+C:\Accelerator\bin\Debug\netcoreapp3.1\Accelerator.pdb
+C:\Accelerator\obj\Debug\netcoreapp3.1\Accelerator.dll
+C:\Accelerator\obj\Debug\netcoreapp3.1\Accelerator.pdb
+C:\Accelerator\obj\Debug\netcoreapp3.1\Accelerator.genruntimeconfig.cache
